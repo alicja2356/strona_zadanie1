@@ -19,7 +19,7 @@
         Czasem w środku pojawiają się także wołowina, lub tuńczyk</font>
 
     <hr size="10" color="red">
-    </font></left></h1></p>
+    
     <p><b><font color="#3bc6b6" size="6">Bulgogi</font>
     </b></p>
     <img src="bulgogi.jpg" width="300"><br><br>
