@@ -9,7 +9,7 @@
 
     <body bgcolor= "#fec5e5" text ="red">
     <br>
-    <h1><center><font size="8" color="#0066CC">Najpopularniejsze koreanskie dania</h1></font>
+    <center><font size="8" color="#0066CC">Najpopularniejsze koreanskie dania</font>
     
     <hr size="10" color="red">  
     <p><b><font color="#3bc6b6" size="6">Gimbap</font>
