@@ -7,7 +7,7 @@
 
     <body>
 
-    <body bgcolor= "#fec5e5" text ="red">
+    <body bgcolor="pink" text ="red">
     <br>
     <p align="center"><font size="8" color="#0066CC">Najpopularniejsze koreanskie dania</font>
     
