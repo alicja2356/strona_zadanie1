@@ -27,7 +27,7 @@
         owoców. To mariaż smaków gruszki, jabłka, kiwi i ananasa nadaje potrawie wyjątkowy, słodkawy posmak, a sos sojowy – odpowiednią głębię.</font>
     <hr size="10" color="red">
 
-    </font></left></h1></p>
+   
     <p><b><font color="#3bc6b6" size="6">Bibimbap</font>
     </b></p>
     <img src="bibimbap.jpg" width="300"><br><br>
