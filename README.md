@@ -11,7 +11,7 @@
     <br>
     <p><h1><center><font size="8" color="#0066CC">Najpopularniejsze koreanskie dania</font></left></h1></p>
     
-    <hr size="10" color="red"        
+    <hr size="10" color="red">  
     <p><b><font color="#3bc6b6" size="6">Gimbap</font>
     </b></p>
     <img src="gimbap.jpg" width="300"><br><br>
